@@ -1,4 +1,4 @@
-package com.example.modhub;
+package com.modhub;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
