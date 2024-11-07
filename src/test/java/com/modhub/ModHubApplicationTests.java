@@ -1,4 +1,4 @@
-package com.example.modhub;
+package com.modhub;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
